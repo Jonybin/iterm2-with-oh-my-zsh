@@ -1,11 +1,9 @@
-# iTerm2 + Oh My Zsh 打造舒适终端体验
+# iTerm2 + Oh My Zsh better to work beautiful
 
 ---
 ### 写在前面
 
 最终效果图：
-
-![ImageInitIterm](https://raw.githubusercontent.com/sirius1024/pubimgs/master/blogs/iterm2/14.png)
 
 本文严重抄袭自：https://www.jianshu.com/p/7de00c73a2bb
 
