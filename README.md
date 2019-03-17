@@ -5,6 +5,8 @@
 
 最终效果图：
 
+本文严重抄袭自：https://www.jianshu.com/p/7de00c73a2bb
+
 因排版和原文中的一些bug，参照搜索引擎和原文有了本篇文章。
 
 因为powerline以及homebrew均需要安装command line tool，网络条件优越的同学在执行本文下面内容之前，可以先安装XCode并打开运行一次（会初始化安装components），省去以后在iterm2中的等待时间。
