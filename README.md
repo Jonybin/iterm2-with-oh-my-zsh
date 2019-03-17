@@ -1,5 +1,5 @@
 # iTerm2 + Oh My Zsh better to work beautiful
-
+增加了1	:wq:wq
 ---
 ### 写在前面
 
